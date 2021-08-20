@@ -1,0 +1,142 @@
+ManifestFileVersion: 0
+CRC: 4237623103
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: peticon
+      Dependencies: {}
+    Info_1:
+      Name: pets/pet_10
+      Dependencies: {}
+    Info_2:
+      Name: pets/pet_42
+      Dependencies: {}
+    Info_3:
+      Name: pets/pet_34
+      Dependencies: {}
+    Info_4:
+      Name: pets/pet_26
+      Dependencies: {}
+    Info_5:
+      Name: pets/pet_18
+      Dependencies: {}
+    Info_6:
+      Name: pets/pet_1
+      Dependencies: {}
+    Info_7:
+      Name: pets/pet_41
+      Dependencies: {}
+    Info_8:
+      Name: pets/pet_33
+      Dependencies: {}
+    Info_9:
+      Name: pets/pet_25
+      Dependencies: {}
+    Info_10:
+      Name: pets/pet_17
+      Dependencies: {}
+    Info_11:
+      Name: pets/pet_9
+      Dependencies: {}
+    Info_12:
+      Name: pets/pet_40
+      Dependencies: {}
+    Info_13:
+      Name: pets/pet_32
+      Dependencies: {}
+    Info_14:
+      Name: pets/pet_24
+      Dependencies: {}
+    Info_15:
+      Name: pets/pet_16
+      Dependencies: {}
+    Info_16:
+      Name: pets/pet_8
+      Dependencies: {}
+    Info_17:
+      Name: pets/pet_4
+      Dependencies: {}
+    Info_18:
+      Name: pets/pet_31
+      Dependencies: {}
+    Info_19:
+      Name: pets/pet_23
+      Dependencies: {}
+    Info_20:
+      Name: pets/pet_15
+      Dependencies: {}
+    Info_21:
+      Name: pets/pet_7
+      Dependencies: {}
+    Info_22:
+      Name: pets/pet_39
+      Dependencies: {}
+    Info_23:
+      Name: pets/pet_30
+      Dependencies: {}
+    Info_24:
+      Name: pets/pet_22
+      Dependencies: {}
+    Info_25:
+      Name: pets/pet_14
+      Dependencies: {}
+    Info_26:
+      Name: pets/pet_6
+      Dependencies: {}
+    Info_27:
+      Name: pets/pet_38
+      Dependencies: {}
+    Info_28:
+      Name: pets/pet_3
+      Dependencies: {}
+    Info_29:
+      Name: pets/pet_21
+      Dependencies: {}
+    Info_30:
+      Name: pets/pet_13
+      Dependencies: {}
+    Info_31:
+      Name: pets/pet_5
+      Dependencies: {}
+    Info_32:
+      Name: pets/pet_37
+      Dependencies: {}
+    Info_33:
+      Name: pets/pet_29
+      Dependencies: {}
+    Info_34:
+      Name: pets/pet_20
+      Dependencies: {}
+    Info_35:
+      Name: pets/pet_12
+      Dependencies: {}
+    Info_36:
+      Name: pets/pet_44
+      Dependencies: {}
+    Info_37:
+      Name: pets/pet_36
+      Dependencies: {}
+    Info_38:
+      Name: pets/pet_28
+      Dependencies: {}
+    Info_39:
+      Name: pets/pet_2
+      Dependencies: {}
+    Info_40:
+      Name: pets/pet_11
+      Dependencies: {}
+    Info_41:
+      Name: pets/pet_43
+      Dependencies: {}
+    Info_42:
+      Name: gameconfig
+      Dependencies: {}
+    Info_43:
+      Name: pets/pet_35
+      Dependencies: {}
+    Info_44:
+      Name: pets/pet_27
+      Dependencies: {}
+    Info_45:
+      Name: pets/pet_19
+      Dependencies: {}

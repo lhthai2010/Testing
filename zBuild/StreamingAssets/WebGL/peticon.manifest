@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1455564596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 410ebfb2813ae39b7d2d8687288486c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/GameConfig/PetIcons/24_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/26_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/30_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/18_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/16_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/3_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/12_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/27_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/6_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/38_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/41_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/4_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/8_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/37_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/1_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/33_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/28_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/2_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/10_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/43_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/14_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/19_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/22_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/15_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/17_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/5_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/36_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/31_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/44_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/35_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/32_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/23_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/13_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/29_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/7_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/11_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/34_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/25_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/9_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/42_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/21_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/40_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/39_icon.png
+- Assets/AssetBundles/GameConfig/PetIcons/20_icon.png
+Dependencies: []
